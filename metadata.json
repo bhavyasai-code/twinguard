@@ -1,0 +1,6 @@
+{
+  "name": "AI Digital Twin - Predictive Maintenance & Machine Health",
+  "description": "AI-powered Digital Twin platform for industrial predictive maintenance, featuring real-time telemetry, machine health scoring, anomaly detection, and remaining useful life (RUL) estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
